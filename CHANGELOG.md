@@ -1,3 +1,9 @@
+# 2.1.0
+
+### Changes
+
+- Fixed all keys stopped playing when releasing on key, while using the on-screen keyboard
+
 # 2.0.3
 
 ### Changes

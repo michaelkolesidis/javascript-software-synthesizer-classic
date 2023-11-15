@@ -9,13 +9,13 @@ export default function footer() {
   return /*html*/ `
 <div>
   <p>
-    © 2023 Made with ♥ by <a href="https://github.com/michaelkolesidis/javascript-software-synthesizer" target="_blank">Michael Kolesidis</a>.
+    © 2023 Made with ♥ by <a href="https://github.com/michaelkolesidis/javascript-software-synthesizer-classic" target="_blank">Michael Kolesidis</a>.
     <br>
     Licensed under the <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank">GNU AGPL</a>.
   </p>
 </div>
 <div id="version">
-  <a href="https://github.com/michaelkolesidis/javascript-software-synthesizer/releases" target="_blank">v.2.0.3
+  <a href="https://github.com/michaelkolesidis/javascript-software-synthesizer/releases" target="_blank">v.2.1.0
   </a>
 </div>
 `;
