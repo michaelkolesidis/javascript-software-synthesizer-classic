@@ -22,6 +22,8 @@
 <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" height="50px" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<a href='https://ko-fi.com/michaelkolesidis' target='_blank'><img src='https://cdn.ko-fi.com/cdn/kofi6.png' style='border:0px;height:45px;' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 More info about the technologies can be found <a href="https://github.com/michaelkolesidis/javascript-software-synthesizer-classic/blob/main/README.md#technologies-used-extended">here</a>.
 
 ## Description
@@ -228,10 +230,6 @@ A full(-ish) list of references can be found in the [References](https://github.
 #### Small Screens
 
 <img width="900px" src="./screenshots/v.0.5.4-small.png">
-
-## Sponsors
-
-None, yet! We will have to add way more features for that.
 
 ## Contributors
 
