@@ -1,5 +1,5 @@
 /*
- *  JSS-01 |JavaScript Software Synthesizer
+ *  JSS-01C |JavaScript Software Synthesizer Classic
  *  Copyright (c) 2023 Michael Kolesidis <michael.kolesidis@gmail.com>
  *  GNU Affero General Public License v3.0
  *
@@ -10,7 +10,7 @@ export default function header(darkMode: boolean) {
     return /*html*/ `    
 <div id="logo-name">
   <img src="./assets/logo/logo_192_dark.png"/>
-  <div>JSS-01 — JavaScript Software Synthesizer</div>
+  <div>JSS-01C — JavaScript Software Synthesizer Classic</div>
 </div>
 
 <div id="buttons">
@@ -33,7 +33,7 @@ export default function header(darkMode: boolean) {
   
 <div id="logo-name">
   <img src="./assets/logo/logo_192.png"/>
-  <div>JSS-01 — JavaScript Software Synthesizer</div>
+  <div>JSS-01C — JavaScript Software Synthesizer Classic</div>
 </div>
 
 <div id="buttons">

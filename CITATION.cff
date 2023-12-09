@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: JSS-01 | JavaScript Software Synthesizer
+title: JSS-01C | JavaScript Software Synthesizer Classic
 message: "If you use this software, please cite it as below."
 type: software
 authors:
@@ -11,9 +11,9 @@ authors:
     email: michael.kolesidis@gmail.com
     orcid: "https://orcid.org/0000-0002-2662-4677"
 repository: >-
-  https://github.com/michaelkolesidis/javascript-software-synthesizer
+  https://github.com/michaelkolesidis/javascript-software-synthesizer-classic
 abstract: >-
-  The JSS-01 | JavaScript Software Synthesizer is a
+  The JSS-01C | JavaScript Software Synthesizer Classic is a
   software synthesizer enabling users to make, play,
   and record music in the browser.
 keywords:

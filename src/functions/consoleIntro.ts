@@ -1,6 +1,6 @@
 /*
  * Console Intro
- * Part of the JSS-01 | JavaScript Software Synthesizer project
+ * Part of the JSS-01C | JavaScript Software Synthesizer Classic project
  * Copyright (c) 2023 Michael Kolesidis <michael.kolesidis@gmail.com>
  * GNU Affero General Public License v3.0
  *
@@ -15,8 +15,8 @@ const styles = [
 ].join(";");
 
 export default function consoleIntro() {
-  console.log("%c * JSS-01 | JavaScript Software Synthesizer *", styles);
+  console.log("%c * JSS-01C | JavaScript Software Synthesizer Classic *", styles);
   console.log(
-    "Since you are here you might want to check our project at GitHub, have a look at the source code, find bugs, submit issues, create pull requests and become part of our community!\nhttps://github.com/michaelkolesidis/javascript-software-synthesizer"
+    "Since you are here you might want to check our project at GitHub, have a look at the source code, find bugs, submit issues, create pull requests and become part of our community!\nhttps://github.com/michaelkolesidis/javascript-software-synthesizer-classic"
   );
 }

@@ -1,6 +1,6 @@
-# JSS-01 Documentation
+# JSS-01C Documentation
 
-The docs folder contains the documentation of the JSS-01 | JavaScript Software Synthesizer.
+The docs folder contains the documentation of the JSS-01C | JavaScript Software Synthesizer Classic.
 
 It comprises a glossary of terms and a tutorial.
 

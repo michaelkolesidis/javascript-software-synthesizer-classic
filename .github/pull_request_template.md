@@ -9,4 +9,4 @@
 - [ ] Do we need to implement analytics?
 - [ ] Will this be part of a product update? If yes, please write one phrase about this update.
 
-Thanks for contributing to JSS-01 | JavaScript Software Synthesizer!
+Thanks for contributing to JSS-01C | JavaScript Software Synthesizer Classic!

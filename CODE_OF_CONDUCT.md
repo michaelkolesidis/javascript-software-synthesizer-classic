@@ -1,4 +1,4 @@
-# JavaScript Software Synthesizer - Contributor Covenant Code of Conduct
+# JavaScript Software Synthesizer Classic - Contributor Covenant Code of Conduct
 
 ## Our Pledge
 

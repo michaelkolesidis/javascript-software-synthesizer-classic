@@ -1,5 +1,5 @@
 /*
- *  JSS-01 |JavaScript Software Synthesizer
+ *  JSS-01C |JavaScript Software Synthesizer Classic
  *  Copyright (c) 2023 Michael Kolesidis <michael.kolesidis@gmail.com>
  *  GNU Affero General Public License v3.0
  *

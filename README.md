@@ -1,7 +1,7 @@
-![JSS-01 Logo](./public/assets/logo/logo_256_white.png#gh-dark-mode-only)
-![JSS-01 Logo](./public/assets/logo/logo_256.png#gh-light-mode-only)
+![JSS-01C Logo](./public/assets/logo/logo_256_white.png#gh-dark-mode-only)
+![JSS-01C Logo](./public/assets/logo/logo_256.png#gh-light-mode-only)
 
-<h1>JSS-01<br>JavaScript Software Synthesizer Classic</h1>
+<h1>JSS-01C<br>JavaScript Software Synthesizer Classic</h1>
 
 [![made-with-typescript](https://img.shields.io/badge/Made%20with-TypeScript-01004c.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MIT license](https://img.shields.io/badge/License-AGPLv3-01004c.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
@@ -22,27 +22,27 @@
 <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" height="50px" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-More info about the technologies can be found <a href="https://github.com/michaelkolesidis/javascript-software-synthesizer/blob/main/README.md#technologies-used-extended">here</a>.
+More info about the technologies can be found <a href="https://github.com/michaelkolesidis/javascript-software-synthesizer-classic/blob/main/README.md#technologies-used-extended">here</a>.
 
 ## Description
 
-**The original version of the JavaScript Software Synthesizer before the ongoing refactoring/redesign. You can find the latest (unstable) version [here](https://github.com/michaelkolesidis/javascript-software-synthesizer).**
+**The original version of the JavaScript Software Synthesizer Classic before the ongoing refactoring/redesign. You can find the latest (unstable) version [here](https://github.com/michaelkolesidis/javascript-software-synthesizer-classic).**
 
-The _JSS-01 | JavaScript Software Synthesizer_ is a web application enabling you to make and play music in the browser. It is a [software synthesizer](https://en.wikipedia.org/wiki/Software_synthesizer) utilizing the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) by implementing a variety of JavaScript frameworks and libraries, such as [Tone.js](https://tonejs.github.io/) and [NexusUI2](https://github.com/michaelkolesidis/nexusui2). Its design is fully modular, thus it can easily be adapted and integrated into any kind of project.
+The _JSS-01C | JavaScript Software Synthesizer Classic_ is a web application enabling you to make and play music in the browser. It is a [software synthesizer](https://en.wikipedia.org/wiki/Software_synthesizer) utilizing the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) by implementing a variety of JavaScript frameworks and libraries, such as [Tone.js](https://tonejs.github.io/) and [NexusUI2](https://github.com/michaelkolesidis/nexusui2). Its design is fully modular, thus it can easily be adapted and integrated into any kind of project.
 
-My aim when creating the JSS-01 was to offer a powerful synthesizer that is simple, easy and, above all, fun to use!
+My aim when creating the JSS-01C was to offer a powerful synthesizer that is simple, easy and, above all, fun to use!
 
 <img width="900px" src="./screenshots/v.0.5.4-large.png">
 
-More screenshots can be found <a href="https://github.com/michaelkolesidis/javascript-software-synthesizer/blob/main/README.md#screenshots">here</a>.
+More screenshots can be found <a href="https://github.com/michaelkolesidis/javascript-software-synthesizer-classic/blob/main/README.md#screenshots">here</a>.
 
 ## Build & Run
 
 First clone the project from GitHub:
 
 ```
-git clone git@github.com:michaelkolesidis/javascript-software-synthesizer.git
-cd javascript-software-synthesizer
+git clone git@github.com:michaelkolesidis/javascript-software-synthesizer-classic.git
+cd javascript-software-synthesizer-classic
 ```
 
 Install the project dependencies:
@@ -59,13 +59,13 @@ yarn dev
 
 ### For versions 1.x.x
 
-Before the introduction of Vite in version 2.0.0, after installing the dependencies, users could run _JavaScript Software Synthesizer_ locally by using a VSCode extension like **Live Server** ([Live Server on the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)) or Python's **http.server** module.
+Before the introduction of Vite in version 2.0.0, after installing the dependencies, users could run _JavaScript Software Synthesizer Classic_ locally by using a VSCode extension like **Live Server** ([Live Server on the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)) or Python's **http.server** module.
 
 For more information, please refer to MDN's excellent article: [MDN article](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server)
 
 ### Demo
 
-There is an online demo available at [https://javascript-software-synthesizer.vercel.app/](https://javascript-software-synthesizer.vercel.app/)
+There is an online demo available at [https://javascript-software-synthesizer-classic.vercel.app/](https://javascript-software-synthesizer-classic.vercel.app/)
 
 ## Introduction
 
@@ -73,7 +73,7 @@ Keys, knobs, sliders and buttons to tweak your sound and generate immersive soun
 
 ### Quick Start
 
-The _JSS-01 | JavaScript Software Synthesizer_ uses <strong>FM Synthesis</strong> (frequency modulation synthesis). In FM Synthesis there is an oscillator that produces the sound signal, the <strong>Carrier</strong>, and an oscillator that modulates the carrier's wave frequency, the <strong>Modulator</strong>.
+The _JSS-01C | JavaScript Software Synthesizer Classic_ uses <strong>FM Synthesis</strong> (frequency modulation synthesis). In FM Synthesis there is an oscillator that produces the sound signal, the <strong>Carrier</strong>, and an oscillator that modulates the carrier's wave frequency, the <strong>Modulator</strong>.
 
 <img width="300px" src="./public/assets/fm.png">
 
@@ -86,7 +86,7 @@ The _JSS-01 | JavaScript Software Synthesizer_ uses <strong>FM Synthesis</strong
 <br><br>
 
 <img width="50px" src="./screenshots/elements/synth.png">
-In JSS-01, the <strong>Synth Section</strong> of the synthesizer includes the controls for the <strong>Carrier</strong> oscillator.
+In JSS-01C, the <strong>Synth Section</strong> of the synthesizer includes the controls for the <strong>Carrier</strong> oscillator.
 
 <br><br>
 
@@ -100,7 +100,7 @@ The <strong>Effects Section</strong> includes the controls of the various effect
 
 #### How to Play
 
-You can play the JSS-01 by using the on-screen keyboard, your computer keyboard, or a MIDI keyboard.
+You can play the JSS-01C by using the on-screen keyboard, your computer keyboard, or a MIDI keyboard.
 
 <img width="500px" src="./public/assets/keyboard/keyboard_bg_w.png">
 
@@ -115,7 +115,7 @@ The Modulation Index determines the amount of the modulation that will be applie
 
 #### MIDI
 
-In order to use your [MIDI keyboard](https://en.wikipedia.org/wiki/MIDI_keyboard) with the JSS-01 you should connect it and turn it on, prior to accessing the web app. If you connect it while already on the JSS-01, you should refresh the page. The available MIDI devices will appear inside the MIDI display, located on top left. You can click on the MIDI device you would like to use and wait for the confirmation message. You are now ready to use your MIDI keyboard. Enjoy playing!
+In order to use your [MIDI keyboard](https://en.wikipedia.org/wiki/MIDI_keyboard) with the JSS-01C you should connect it and turn it on, prior to accessing the web app. If you connect it while already on the JSS-01C, you should refresh the page. The available MIDI devices will appear inside the MIDI display, located on top left. You can click on the MIDI device you would like to use and wait for the confirmation message. You are now ready to use your MIDI keyboard. Enjoy playing!
 
 #### Sequencer
 
@@ -126,11 +126,11 @@ The first input from the left controls the rate of the sequence (speed). The sec
 
 When your sequence is ready, you can add it to the sequencer using the <strong>Add button</strong>. In order to go back to the default sequence, you can simply write <strong>default</strong> in the sequence input field and then click the Add button. There are two extra sequences included, the bassline of "I Feel Love" by Donna Summer (produced by Giorgio Moroder), which can be accessed by writing <strong>i feel love</strong> in the sequence input field and then pressing the add button, and the riff of "Funky Town", that can be accessed by writing <strong>funky town</strong>.
 
-You can find some additional information about the JSS-01 and sound synthesis in this short [presentation](./public/assets/presentation/JSS%20Presentation.pdf).
+You can find some additional information about the JSS-01C and sound synthesis in this short [presentation](./public/assets/presentation/JSS%20Presentation.pdf).
 
 ## System Requirements
 
-The _JSS-01 | JavaScript Software Synthesizer_ is quite heavy, especially on the CPU. We would suggest these indicative minimum requirements:
+The _JSS-01C | JavaScript Software Synthesizer Classic_ is quite heavy, especially on the CPU. We would suggest these indicative minimum requirements:
 
 | Component  | Minimum                                 | Recommended                            |
 | ---------- | --------------------------------------- | -------------------------------------- |
@@ -154,7 +154,7 @@ Full documentation will be released at some point in the future. In the meantime
 
 ## Guides & Tutorials
 
-The JSS-01 is using FM synthesis implementing the FMSynth of Tone.js, While there aren't any guides and tutorials specifically for the JSS-01 yet, there are plenty of excellent guides on FM synthesis:
+The JSS-01C is using FM synthesis implementing the FMSynth of Tone.js, While there aren't any guides and tutorials specifically for the JSS-01C yet, there are plenty of excellent guides on FM synthesis:
 
 ### FM Synthesis
 
@@ -165,12 +165,12 @@ The JSS-01 is using FM synthesis implementing the FMSynth of Tone.js, While ther
 
 ## Contributing
 
-Feel free to submit issues and pull requests. It would be great to create a community around JSS-01, to continue its development and evolution, making it more capable and easier to use, increasing its creative and artistic potential.
-If you are interested in becoming part of out community it would be useful to have a look to our dedicated document regarding [Contributing](https://github.com/michaelkolesidis/javascript-software-synthesizer/blob/main/CONTRIBUTING.md), as well as, out [Code of Conduct](https://github.com/michaelkolesidis/javascript-software-synthesizer/blob/main/CODE_OF_CONDUCT.md). In a nutshell, we want our community to be a safe space for everyone, so that we can all have a pleasant and joyful experience!
+Feel free to submit issues and pull requests. It would be great to create a community around JSS-01C, to continue its development and evolution, making it more capable and easier to use, increasing its creative and artistic potential.
+If you are interested in becoming part of out community it would be useful to have a look to our dedicated document regarding [Contributing](https://github.com/michaelkolesidis/javascript-software-synthesizer-classic/blob/main/CONTRIBUTING.md), as well as, out [Code of Conduct](https://github.com/michaelkolesidis/javascript-software-synthesizer-classic/blob/main/CODE_OF_CONDUCT.md). In a nutshell, we want our community to be a safe space for everyone, so that we can all have a pleasant and joyful experience!
 
 ## Changelog
 
-Please refer to the project's [Changelog](https://github.com/michaelkolesidis/javascript-software-synthesizer/blob/main/CHANGELOG.md) document.
+Please refer to the project's [Changelog](https://github.com/michaelkolesidis/javascript-software-synthesizer-classic/blob/main/CHANGELOG.md) document.
 
 ## Technologies Used (Extended)
 
@@ -217,7 +217,7 @@ Some of the features to be implemented in the future are:
 - [Teenage Engineering OP-1](https://teenage.engineering/products/op-1)
 - [Helm](https://tytel.org/helm/)
 
-A full(-ish) list of references can be found in the [References](https://github.com/michaelkolesidis/javascript-software-synthesizer/blob/main/REFERENCES.md) document.
+A full(-ish) list of references can be found in the [References](https://github.com/michaelkolesidis/javascript-software-synthesizer-classic/blob/main/REFERENCES.md) document.
 
 ## Screenshots
 
@@ -245,7 +245,7 @@ Your name could be here and it would be great to have you aboard!
 
 ## Other
 
-- You can find a mirror of this repository in [Codeberg](https://codeberg.org/michaelkolesidis/javascript-software-synthesizer).
+- You can find a mirror of this repository in [Codeberg](https://codeberg.org/michaelkolesidis/javascript-software-synthesizer-classic).
 - The project has a total of 3,342 lines of code (excluding blank lines and comments).
 
 ## Special Thanks To

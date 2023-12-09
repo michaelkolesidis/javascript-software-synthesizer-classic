@@ -1,4 +1,4 @@
-# JavaScript Software Synthesizer Security Policy
+# JavaScript Software Synthesizer Classic Security Policy
 
 ## Reporting a Vulnerability
 

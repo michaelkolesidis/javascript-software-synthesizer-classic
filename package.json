@@ -3,12 +3,12 @@
   "author": "Michael Kolesidis",
   "license": "AGPL-3.0-or-later",
   "version": "2.1.0",
-  "description": "TThe JSS-01 | JavaScript Software Synthesizer is a web app enabling you to make and play music in the browser. It is a software synthesizer implementing a variety of JavaScript frameworks and libraries, such as Tone.js and NexusUI2.",
+  "description": "TThe JSS-01C | JavaScript Software Synthesizer Classic is a web app enabling you to make and play music in the browser. It is a software synthesizer implementing a variety of JavaScript frameworks and libraries, such as Tone.js and NexusUI2.",
   "private": false,
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelkolesidis/javascript-software-synthesizer.git"
+    "url": "git+https://github.com/michaelkolesidis/javascript-software-synthesizer-classic.git"
   },
   "keywords": [
     "music",
@@ -31,9 +31,9 @@
     "sound-engineering"
   ],
   "bugs": {
-    "url": "https://github.com/michaelkolesidis/javascript-software-synthesizer/issues"
+    "url": "https://github.com/michaelkolesidis/javascript-software-synthesizer-classic/issues"
   },
-  "homepage": "https://github.com/michaelkolesidis/javascript-software-synthesizer",
+  "homepage": "https://github.com/michaelkolesidis/javascript-software-synthesizer-classic",
   "scripts": {
     "dev": "vite --host",
     "start": "vite --host",
@@ -48,11 +48,14 @@
     "eslint": "^8.43.0",
     "sass": "^1.63.6",
     "typescript": "^5.0.2",
-    "vite": "^4.3.9"
+    "vite": "^5.0.7"
   },
   "dependencies": {
     "nexusui2": "^1.0.1",
     "tone": "^14.7.77",
     "webmidi": "^3.1.6"
+  },
+  "volta": {
+    "node": "18.18.2"
   }
 }

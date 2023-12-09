@@ -1,6 +1,6 @@
 /*
  * MIDI to Note String
- * Part of the JSS-01 | JavaScript Software Synthesizer project
+ * Part of the JSS-01C | JavaScript Software Synthesizer Classic project
  * Copyright (c) 2023 Michael Kolesidis <michael.kolesidis@gmail.com>
  * GNU Affero General Public License v3.0
  *
